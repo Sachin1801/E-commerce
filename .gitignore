@@ -1,0 +1,4 @@
+client/node_modules
+client/src/assets
+api/node_modules
+api/public
